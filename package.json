@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "node-fltk_cef",
+  "version": "0.0.0",
+  "description": "CEF bindings for NodeJS, using FLTK for easier cross-platform GUI-ing.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "keywords": [
+    "fltk",
+    "cef"
+  ],
+  "author": "Ingwie Phoenix",
+  "license": "MIT",
+  "gypfile": true
+}

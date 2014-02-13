@@ -1,0 +1,7 @@
+cef/*
+build/*
+fltk/*
+
+*.a
+
+*.app
